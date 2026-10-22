@@ -20,12 +20,11 @@
 👩 Name      : Nikita Singha
 🎓 Education : B.Tech Electronics & Computer Science
 📍 Country   : India
-💡 Interests : Artificial Intelligence, Machine Learning, Software Development
-🌱 Learning  : DSA • DBMS • SQL • Full Stack Development
+💡 Interests : Artificial Intelligence, Machine Learning, Software Development (Just a facade lol) 
+🌱 Learning  : How to cheat on people and not take the accountability for my actions when confronted
 🎯 Goal      : AI/ML Engineer
 ```
-
-I enjoy solving coding problems, building real-world projects, and continuously improving my skills. Every project is an opportunity to learn something new and every commit is a step toward becoming a better developer.
+I enjoy being a cheater, going out with multiple men at the same time without informing anybody that I'm seeing other peeps as well and the other stuff is just a facade to hide my this side: solving coding problems, building real-world projects, and continuously improving my skills. Every project is an opportunity to learn something new and every commit is a step toward becoming a better developer.
 
 ---
 
